@@ -2,12 +2,8 @@
 
 基于React + Vite + unocss开发的静态网站
 
-
-# 演示
-
-<video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="./demo.mp4" type="video/mp4">
-</videos>
+拉取后执行pnpm install、pnpm dev即可查看效果
 
 
+![demo](./demo.gif)
 
